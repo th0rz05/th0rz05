@@ -74,6 +74,6 @@
 <hr></hr>
 
 <div align="center" display="flex" style="color:red;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcrodrigues&layout=compact&theme=tokyonight"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th0rz05&layout=compact&theme=tokyonight"
     height="160rem"/>
 </div>

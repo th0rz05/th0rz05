@@ -19,6 +19,13 @@
 <br>
 <br>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<br>
+<br>
+
 📖 Studying Informatics and Computing Engineering <br>
 🎓 University of Porto, Portugal <br>
  
@@ -49,20 +56,22 @@
   </div>
   <h4>Other</h4>
   <div display="flex">
-   <img src="https://img.shields.io/badge/macOS-563D7C?style=for-the-badge&logo=apple&logoColor=white" alt="MacOs">
+   <img src="https://img.shields.io/badge/Android%20Studio-563D7C?style=for-the-badge&logo=android-studio&logoColor=green" alt="AndroidStudio">
    <img src="https://img.shields.io/badge/Docker-563D7C?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-   <img src="https://img.shields.io/badge/Android%20Studio-563D7C?style=for-the-badge&logo=android-studio&logoColor=white" alt="AndroidStudio">
-   <img src="https://img.shields.io/badge/Xcode-563D7C?style=for-the-badge&logo=xcode&logoColor=white" alt="XCode">
-   <img src="https://img.shields.io/badge/Slack-563D7C?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
-   <img src="https://img.shields.io/badge/Doxygen-563D7C?style=for-the-badge&logo=doxygen&logoColor=white" alt="Doxygen"> 
-   <img src="https://img.shields.io/badge/Maxima-563D7C?style=for-the-badge&logo=maxima&logoColor=white" alt="Maxima"> 
-   <img src="https://img.shields.io/badge/VirtualBox-563D7C?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
+   <img src="https://img.shields.io/badge/Doxygen-563D7C?style=for-the-badge&logo=doxygen&logoColor=yellow" alt="Doxygen">
    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
    <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="Latex">
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOs">
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
+   <img src="https://img.shields.io/badge/VirtualBox-563D7C?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VsCode">
+   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="XCode">
   </div>
 </div>
 
 <br>
 
+<div align="center">
+  <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th0rz05&layout=compact&theme=tokyonight)](https://github.com/th0rz05/github- readme-stats)</a>
+</div>

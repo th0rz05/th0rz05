@@ -28,5 +28,4 @@
 
 📖 Studying Informatics and Computing Engineering <br>
 🎓 University of Porto, Portugal <br>
- 
-<hr></hr>
+

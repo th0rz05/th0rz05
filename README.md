@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/tiagobarbosa05">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCK9REpAh--OqKDY4G2OMxwQ">
-   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
   <a href="mailto:tiago.filipe.barbosa@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
@@ -26,6 +23,6 @@
 <br>
 <br>
 
-📖 Studying Informatics and Computing Engineering <br>
-🎓 University of Porto, Portugal <br>
+📖 Master's Degree Informatics and Computing Engineering <br>
+🎓 Faculty of Engineering of University of Porto, Portugal <br>
 
